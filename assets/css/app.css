@@ -1,0 +1,34 @@
+.form{
+    margin-top: 60px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.calorie-item{
+    padding: 15px 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+i.icon-color {
+    color: #ff8a80;
+}
+
+.footer-text{
+    font-size: 18px;
+    font-weight: bold;
+    
+}
+
+footer{
+    margin-top: 150px;
+    padding: 20px 30px;
+
+    
+}
+
+.clear-btn{
+    padding-top: 20px;
+}
